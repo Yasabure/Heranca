@@ -16,7 +16,7 @@ namespace Heranca3.Classes
         {
             
         }
-        public override void CalcularGraduação()
+        public override void CalcularGraduacao()
         {
             Console.WriteLine($"O Aluno: {this.Nome} Pagara R$ {400 - (450 / 100) * this.BolsaEstudos}");
         }

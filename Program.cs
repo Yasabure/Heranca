@@ -9,6 +9,6 @@ internal class Program
             ,dataNascimento: "02/09/2004"
             ,bolsaEstudos: 100
         );
-        Matricula.CalcularGraduação();
+        Matricula.CalcularGraduacao();
     }
 }

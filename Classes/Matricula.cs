@@ -12,7 +12,7 @@ namespace Heranca3.Classes
       public string DataNascimento {get ;protected set ;}
       public int BolsaEstudos {get ;protected set ;}
 
-      public abstract void CalcularGraduação();
+      public abstract void CalcularGraduacao();
 
     
     }
